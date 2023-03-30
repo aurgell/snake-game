@@ -1,0 +1,16 @@
+#board{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+#snake{
+    position: absolute; 
+    background-color: green;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    top: 0; 
+    left: 0;
+}
